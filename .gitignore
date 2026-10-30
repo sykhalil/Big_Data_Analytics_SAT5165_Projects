@@ -1,0 +1,22 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Spark logs
+*.log
+spark-warehouse/
+metastore_db/
+
+# Virtual environments
+.venv/
+venv/
+
+# Sensitive configuration
+.env
+.env.*
+
+# Avoid uploading duplicate dataset
+Large_Project_1/Diabetes_Spark_Project/data/
