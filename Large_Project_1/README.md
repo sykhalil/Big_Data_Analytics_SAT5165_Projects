@@ -13,5 +13,5 @@ All our files are located in the Large_Project_1 folder.
 * diabetes_binary_5050split_health_indicators_BRFSS2015.csv: the dataset
 * Suha_Sandra_Noelle_Large_Project_1.ipynb: the notebook containing our team's workflow, including data preprocessing, correlation analysis, and binary classification using logistic regression.
 * Suha_Large_Project_1.ipynb: notebook containing the Spark runtime analysis experiment on the data preprocessing
-* [name of Sandra's notebook here]: notebook containing the Spark runtime analysis experiment on the correlation analysis
+* Diabetes_Spark_projects/notebooks/Sandra_Large_Project-1: notebook containing the Spark runtime analysis experiment on the correlation analysis
 * Noelle_Large_Project_1.ipynb: notebook containing the Spark runtime analysis experiment on the correlation analysis
